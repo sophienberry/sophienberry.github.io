@@ -40,10 +40,11 @@
     <Content Include="AboutStyle.css" />
     <Content Include="deadcenter.jpg" />
     <Content Include="HomePage.html" />
-    <Content Include="index.html" />
     <Content Include="metsteps.JPG" />
     <Content Include="phoebecharlie.jpg" />
     <Content Include="Projects.html" />
+    <Content Include="ProjectsStyle.css" />
+    <Content Include="SEQTEKSS.png" />
     <Content Include="Stylesheet.css" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
