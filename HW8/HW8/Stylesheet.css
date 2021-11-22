@@ -5,17 +5,21 @@
     background-color: black;
     background-size: cover;
     font-size: 1.6rem;
-    font-family: Cambria;
+    font-family: Consolas;
     color: #2c343b;
 }
 #Name{
     text-align: center;
     color: white;
     font: small-caps;
-    font-family:Cambria;
-     padding: 0px;
+    font-family:Consolas;
+     padding: 10px;
      font-size: 50px;
+     margin-bottom: 0px;
+     padding-bottom: -100px;
+     text-transform:uppercase;
 }
+
 li{
     display: inline;
     float: left;
@@ -24,11 +28,11 @@ li a {
         display: block;
         color: white;
         text-align: center;
-        text-decoration: none;
+        text-decoration-line: none;
 
     }
 a {
-    padding: 0px;
+    padding: 10px;
     color: white;
 }
 
@@ -40,36 +44,47 @@ ul {
     background-color: white;
 
 }
-.container{
+
+
+.container {
     text-align: center;
     border-radius: 20px;
     padding: 10px;
     background-color: grey;
-    
+    margin-top: 0px;
+    position: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 #Image {
-
     float: left;
     height: 500px;
     border: 0px;
     padding: 0px;
-    justify-content: center;
+    justify-content: right;
     display: flex;
     width: 50%;
+    border-radius: 20px;
 }
+    #Image:hover {
+        transform: matrix3d(-90deg);
+    }
 #AboutSophie{
-    float: right;
+    float: left;
     background-color:white;
     color: grey;
-    width:50%;
+    width:35%;
     border-radius:30px;
-    font-family:Cambria;
+    font-family:Consolas;
     border-color:aliceblue;
     text-align: center;
     vertical-align: central;
+    height: 500px;
+ 
 }
 nav{
-    font-family: 'Maiandra GD';
+    font-family: Consolas;
     font-style: normal;
     padding: 0px;
 
@@ -145,5 +160,3 @@ nav{
 #Content{
     width: 100%;
 }
-
-    

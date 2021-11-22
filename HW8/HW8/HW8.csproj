@@ -37,8 +37,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.html" />
+    <Content Include="AboutStyle.css" />
+    <Content Include="deadcenter.jpg" />
     <Content Include="HomePage.html" />
     <Content Include="index.html" />
+    <Content Include="metsteps.JPG" />
+    <Content Include="phoebecharlie.jpg" />
     <Content Include="Projects.html" />
     <Content Include="Stylesheet.css" />
   </ItemGroup>
