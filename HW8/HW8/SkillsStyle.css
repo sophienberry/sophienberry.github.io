@@ -1,19 +1,38 @@
 ﻿body
 {
-    background-color: lightgoldenrodyellow;
+    background-color: black;
 }
 h1{
     text-align: center;
     padding-top: 20px;
+    font-family: Consolas;
+    color: white;
 }
 .skills ul{
     text-align: center;
+    
 
 }
-.skills a{
-    font-size: 40px;
+.skills li{
+    list-style-type: none;
 }
-
+.skills a {
+    font-size: 20px;
+    text-align: center;
+    font-family: Consolas;
+    list-style-type: none;
+    color: white;
+}
+.skillcontainer {
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 10px;
+    position: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
 
 
 .container {

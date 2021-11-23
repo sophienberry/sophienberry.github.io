@@ -1,17 +1,19 @@
 ﻿body
 {
-    background-color: lightgoldenrodyellow;
+    background-color: black;
 
 }
 #AboutInfo{
     font-family: Consolas;
     text-align: center;
+    color: white;
 
 }
 h1{
     position:center;
     font-family:Consolas;
     text-align:center;
+    color: white;
 
 }
 img {

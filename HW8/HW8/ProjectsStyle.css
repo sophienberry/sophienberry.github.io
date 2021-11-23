@@ -1,11 +1,11 @@
 ﻿body {
-    background-color: lightgoldenrodyellow;
+    background-color: black;
 }
 h1 {
     font-family: Consolas;
     text-align: center;
     font-size: 250%;
-    color: black;
+    color: white;
 }
 
 .card {
