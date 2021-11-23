@@ -13,11 +13,11 @@
     color: white;
     font: small-caps;
     font-family:Consolas;
-     padding: 10px;
-     font-size: 50px;
+     font-size: 40px;
      margin-bottom: 0px;
      padding-bottom: -100px;
      text-transform:uppercase;
+     padding-top: 10px;
 }
 
 li{
@@ -56,33 +56,30 @@ ul {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
+    position: center;
+    text-align: center;
+    border-radius: 20px;
+    
+
 }
+
 #Image {
-    float: left;
+
     height: 500px;
     border: 0px;
     padding: 0px;
-    justify-content: right;
+    justify-content: center;
     display: flex;
     width: 50%;
     border-radius: 20px;
+    align-content: center;
+    margin-left: 25%;
+    margin-top: 40px;
 }
     #Image:hover {
-        transform: matrix3d(-90deg);
+        transform: scale(1.1)
     }
-#AboutSophie{
-    float: left;
-    background-color:white;
-    color: grey;
-    width:35%;
-    border-radius:30px;
-    font-family:Consolas;
-    border-color:aliceblue;
-    text-align: center;
-    vertical-align: central;
-    height: 500px;
- 
-}
+
 nav{
     font-family: Consolas;
     font-style: normal;
@@ -156,7 +153,20 @@ nav{
     background-color: #21222b;
     height: calc(100% - 20px); /* for demonstration purposes, subtracts top and bottom margin from height */
     margin: 10px; /* for demonstration purposes */
-}
-#Content{
     width: 100%;
+}
+#TryAgain {
+    text-align: center;
+    color: black;
+    font: small-caps;
+    font-family: Consolas;
+    padding: 10px;
+    margin-bottom: 0px;
+    padding-bottom: -100px;
+    background-color: white;
+    opacity: .5;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
