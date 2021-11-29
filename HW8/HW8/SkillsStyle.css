@@ -2,11 +2,12 @@
 {
     background-color: black;
 }
-h1{
+h1 {
     text-align: center;
     padding-top: 20px;
     font-family: Consolas;
     color: white;
+    font-size: 250%;
 }
 .skills ul{
     text-align: center;

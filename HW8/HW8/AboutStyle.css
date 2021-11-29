@@ -9,12 +9,12 @@
     color: white;
 
 }
-h1{
-    position:center;
-    font-family:Consolas;
-    text-align:center;
+h1 {
+    position: center;
+    font-family: Consolas;
+    text-align: center;
     color: white;
-
+    font-size: 250%;
 }
 img {
 
@@ -22,6 +22,10 @@ img {
     padding-bottom: 5%;
     width: 95%;
 }
+    img:hover {
+        transform: scale(1.2);
+        transition: all .5s ease-in-out;
+    }
 .ImageOne {
     float: left;
     width: 25%;

@@ -77,7 +77,8 @@ ul {
     margin-top: 40px;
 }
     #Image:hover {
-        transform: scale(1.1)
+        transform: scale(1.1);
+        transition: all .5s ease-in-out;
     }
 
 nav{
