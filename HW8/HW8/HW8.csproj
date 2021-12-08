@@ -39,6 +39,8 @@
     <Content Include="About.html" />
     <Content Include="AboutStyle.css" />
     <Content Include="deadcenter.jpg" />
+    <Content Include="Employment.html" />
+    <Content Include="EmploymentStyle.css" />
     <Content Include="LinkedIN.JPG" />
     <Content Include="SkillSets.html" />
     <Content Include="SkillsStyle.css" />

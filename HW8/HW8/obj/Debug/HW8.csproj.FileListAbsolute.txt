@@ -1,0 +1,2 @@
+C:\Users\sophi\source\repos\sophienberry.github.io\HW8\HW8\obj\Debug\HW8.csproj.AssemblyReference.cache
+C:\Users\sophi\source\repos\sophienberry.github.io\HW8\HW8\obj\Debug\HW8.csproj.CoreCompileInputs.cache

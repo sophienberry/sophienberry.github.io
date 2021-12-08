@@ -1,0 +1,86 @@
+﻿body {
+    text-align: center;
+    background-image: url("https://pbs.twimg.com/media/FGEBtOKXsAchYiD?format=jpg&name=large");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: cover;
+    margin: 8px;
+    font-family: Consolas;
+}
+#Desc{
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+h3{
+    display: block;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+#Employment{
+    background-color: gray;
+    opacity: 0.95;
+    width: 70%;
+    height: auto;
+    display:  block;
+    border-radius: 5px;
+    margin: 10px auto;
+    padding: 4px 4px;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 1em;
+    margin-inline-end: 0px;
+    text-align: center;
+}
+li {
+    display: inline;
+    float: left;
+}
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        text-decoration-line: none;
+    }
+
+a {
+    padding: 10px;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+
+.container {
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: grey;
+    margin-top: 0px;
+    position: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    position: center;
+    text-align: center;
+    border-radius: 20px;
+}
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    font-family: Consolas;
+    color: white;
+    font-size: 250%;
+}
