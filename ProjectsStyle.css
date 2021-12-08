@@ -1,0 +1,94 @@
+﻿body {
+    background-color: black;
+}
+h1 {
+    font-family: Consolas;
+    text-align: center;
+    font-size: 250%;
+    color: white;
+}
+
+.card {
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    display: inline-block;
+    width: 335px;
+    padding: 4px 4px;
+    margin: 10px;
+    background-color: white;
+
+
+
+    
+
+
+}
+
+
+    .card:hover {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        transform: scale(1.1);
+        transition: all .5s ease-in-out;
+    }
+
+img {
+    border-radius: 5px 5px 0 0;
+    width: 100px;
+    height: 300px;
+}
+
+
+
+.cardcontainer {
+    padding: 2px 16px;
+    background-color: none;
+    font-family: Consolas;
+}
+li {
+    display: inline;
+    float: left;
+}
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        text-decoration-line: none;
+
+    }
+
+a {
+    padding: 10px;
+    color: white;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+
+.container {
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: grey;
+    margin-top: 0px;
+    position: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+nav {
+    font-family: Consolas;
+    font-style: normal;
+    padding: 0px;
+}
