@@ -1,0 +1,51 @@
+body{
+background-color: pink;
+}
+h1{
+text-align: center;
+}
+img{
+float: left;
+width: 25%;
+height: 600px;
+}
+h2{
+text-align: center;
+margin-top: 20px;
+}
+.card {
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    display: inline-block;
+    width: 335px;
+    padding: 4px 4px;
+    margin: 10px;
+    background-color: white;
+
+
+
+    
+
+
+}
+
+
+    .card:hover {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        transform: scale(1.1);
+        transition: all .5s ease-in-out;
+    }
+h4{
+text-align: center;
+}
+h3{
+text-align: center;
+}
+#mugler{
+    width:100%;
+    float:left;
+    text-align:center;
+padding: 50px;
+}
