@@ -85,11 +85,14 @@ nav {
     padding: 10px;
     color: white;
 }
-img{
-   padding: 10px;
+img {
+    padding: 10px;
     width: 50%;
-    align-content:center;
+    align-content: center;
     height: 1000px;
     float: inherit;
-    padding-left: 375px;
+    /*    padding-left: 375px;*/
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
