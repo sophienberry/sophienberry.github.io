@@ -1,9 +1,9 @@
 ﻿body {
-    background-image: url("https://wallpaperaccess.com/full/450433.jpg");
+    
     background-position: center;
     background-repeat: no-repeat;
-    background-color: black;
     background-size: cover;
+    background-color: pink;
 }
 #AboutInfo{
     font-family: Consolas;
