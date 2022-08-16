@@ -120,3 +120,25 @@ nav {
 .Spotify{
     color: black;
 }
+.flex-container {
+    position: relative;
+    top: 65px;
+    display: flex;
+    padding: 0px;
+    height: 100px;
+    width: 100%;
+    background-color: #2c343b;
+    justify-content: space-around; /* could also try with space-around */
+    align-items: center;
+}
+
+.flex-child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    font-size: 20px;
+    background-color: #21222b;
+    height: calc(100% - 20px); /* for demonstration purposes, subtracts top and bottom margin from height */
+    margin: 10px; /* for demonstration purposes */
+    width: 100%;
