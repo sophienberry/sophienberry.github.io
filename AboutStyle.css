@@ -89,7 +89,7 @@ li {
 
 a {
     padding: 10px;
-    color: white;
+    color: black;
 }
 
 ul {
@@ -117,9 +117,10 @@ nav {
     font-style: normal;
     padding: 0px;
 }
-.Spotify{
-    color: black;
+a{
+    color: white;
 }
+
 .flex-container {
     position: relative;
     top: 65px;
